@@ -37,8 +37,7 @@ To install and set up the Personal Finance Manager, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AmariahAK/finance_manager.git
-    cd finance_manager
+    git clone https://github.com/AmariahAK/Personal-Finance-Manager
     ```
 
 2. Create and activate a virtual environment using Pipenv:
